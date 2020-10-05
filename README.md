@@ -1,6 +1,6 @@
 # docker-postgresql
 
-Play adminer with docker compose.
+Play postgresql and adminer with docker compose.
 
 for the example command, you can see Makefile.
 
